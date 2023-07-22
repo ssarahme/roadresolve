@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Road Resolve</string>
+    <string name="copyright">Copyright© 2023 Road Resolve</string>
+    <string name="about_text">This is a Road Resolve app to display news and receive report from user about road hazard. </string>
+    <string name="developer">Developer details</string>
+    <string name="group">Group: RCS2405B</string>
+    <string name="sarah">SITI SARAH                 2021940563</string>
+    <string name="syafiq">MUHAMMAD SYAFIQ HAIKAL    2021339483</string>
+    <string name="putera">PUTERA ISKANDAR           2021975241</string>
+</resources>
